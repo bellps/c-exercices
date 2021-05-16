@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620569735 source:/home/isabella/Documentos/faculdade/lista_2bi/ex1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"contato.h"
+
+1620499074 /home/isabella/Documentos/faculdade/lista_2bi/ex1/contato.h
+
+1620499520 source:/home/isabella/Documentos/faculdade/lista_2bi/ex1/contato.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"contato.h"
+

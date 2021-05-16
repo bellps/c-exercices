@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620569357 source:/home/isabella/Documentos/faculdade/lista_2bi/ex3/exearv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"exearv.h"
+
+1620569232 /home/isabella/Documentos/faculdade/lista_2bi/ex3/exearv.h
+
+1620569300 source:/home/isabella/Documentos/faculdade/lista_2bi/ex3/main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	"exearv.h"
+

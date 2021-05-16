@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620571246 source:/home/isabella/Documentos/faculdade/lista_2bi/ex2/impressora.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"impressora.h"
+
+1620502866 /home/isabella/Documentos/faculdade/lista_2bi/ex2/impressora.h
+
+1620569673 source:/home/isabella/Documentos/faculdade/lista_2bi/ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"impressora.h"
+
